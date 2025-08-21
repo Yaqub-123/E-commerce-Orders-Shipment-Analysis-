@@ -72,9 +72,15 @@ The dataset consists of 4 linked tables:
 ---
 
 ## 🔹 Dashboard Preview  
-👉 *(Add screenshot of your Power BI dashboard here)*  
+👉   ![Power BI Dashboard](https://github.com/Yaqub-123/E-commerce-Orders-Shipment-Analysis-/blob/main/Powern%20BI%20Dashboard.png)
+ 
 
 ---
+## ​ SQL Queries
+All the SQL queries used to generate KPIs and derive insights are available here:  
+[View SQL Queries (project).sql](https://github.com/Yaqub-123/E-commerce-Orders-Shipment-Analysis-/blob/main/SQL%20Queries%20(project).sql)
 
-## 🔹 Repository Structure  
+---
+##  Python Analysis Notebook  
+[View Python Analysis Notebook (Data Cleaning & Data Handling)](https://github.com/Yaqub-123/E-commerce-Orders-Shipment-Analysis-/blob/main/Python%20file-%20Data%20Analysis%2C%20Data%20Cleaning%2C%20Data%20Handling.ipynb)
 
