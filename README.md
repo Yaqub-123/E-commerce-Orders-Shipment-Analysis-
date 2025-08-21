@@ -1,4 +1,4 @@
-# E-commerce-Orders-Shipment-Analysis
+# E-commerce Orders & Shipment Analysis
 
 ## 🔹 Project Overview  
 This project analyzes an **E-commerce Supply Chain dataset** containing **Orders, Products, Suppliers, and Shipments**.  
