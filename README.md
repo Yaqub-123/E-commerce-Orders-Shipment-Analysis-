@@ -72,7 +72,7 @@ The dataset consists of 4 linked tables:
 ---
 
 ## 🔹 Dashboard Preview  
-👉   ![Power BI Dashboard](https://github.com/Yaqub-123/E-commerce-Orders-Shipment-Analysis-/blob/main/Powern%20BI%20Dashboard.png)
+👉   ![Power BI Dashboard](https://github.com/Yaqub-123/E-commerce-Orders-Shipment-Analysis-/blob/main/Power%20Bi%20-%20Dashboard.png)
  
 
 ---
